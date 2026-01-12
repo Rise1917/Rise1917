@@ -10,10 +10,7 @@ I am a Cyber-Physical Systems student at IITU with over 3 years of experience in
 
     🛠️ Tools & Tech: Docker, SQL, Git, and Hardware Troubleshooting.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rise1917&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rise1917&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
+![Rise1917 GitHub stats](https://github-readme-stats.vercel.app/api?username=Rise1917)
 
 🌐 Programming Languages
 
