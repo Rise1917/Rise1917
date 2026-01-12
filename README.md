@@ -9,10 +9,13 @@ I am a Cyber-Physical Systems student at IITU with over 3 years of experience in
     🤖 Focus Areas: AI Development, Cyber-Physical Systems, and Game Dev (Unity).
 
     🛠️ Tools & Tech: Docker, SQL, Git, and Hardware Troubleshooting.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rise1917&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rise1917&show_icons=true&theme=radical&hide_border=true" alt="Rise1917 GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rise1917&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 🌐 Programming Languages
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
