@@ -12,8 +12,7 @@ I am a Cyber-Physical Systems student at IITU with over 3 years of experience in
 
 | GitHub Stats | Top Languages |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rise1917&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rise1917&layout=compact&theme=radical) |
-
+| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rise1917&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4aa&text_color=ffffff&icon_color=00d4aa) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rise1917&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4aa&text_color=ffffff) |
 
 🌐 Programming Languages
 
